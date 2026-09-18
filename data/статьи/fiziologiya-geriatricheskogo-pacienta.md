@@ -4,7 +4,7 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4556136/
 source_name: PMC — Physiology Considerations in the Geriatric Patient
 title: Physiology Considerations in the Geriatric Patient
 gender: все
-age_range: все
+age_range: 60-69
 topic: здоровье
 status: collected
 collected_date: 2026-09-17

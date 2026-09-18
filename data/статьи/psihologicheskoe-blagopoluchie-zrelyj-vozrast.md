@@ -4,7 +4,7 @@ source_url: https://www.seniorgroup.ru/experts/chto-vliyaet-na-psikhologicheskoe
 source_name: Senior Group — блог экспертов
 title: Что влияет на психологическое состояние пожилых?
 gender: все
-age_range: все
+age_range: 40-49
 topic: психология
 status: collected
 collected_date: 2026-09-17

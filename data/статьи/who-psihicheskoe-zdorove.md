@@ -4,7 +4,7 @@ source_url: https://www.who.int/ru/news-room/fact-sheets/detail/mental-health-of
 source_name: WHO — Психическое здоровье пожилых людей
 title: Психическое здоровье пожилых людей
 gender: все
-age_range: все
+age_range: 70-79
 topic: психология
 status: collected
 collected_date: 2026-09-17

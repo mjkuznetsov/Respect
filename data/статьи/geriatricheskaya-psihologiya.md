@@ -4,7 +4,7 @@ source_url: https://en.wikipedia.org/wiki/Geriatric_psychology
 source_name: Geriatric psychology — Wikipedia (EN)
 title: Geriatric psychology
 gender: все
-age_range: все
+age_range: 50-59
 topic: психология
 status: collected
 collected_date: 2026-09-17

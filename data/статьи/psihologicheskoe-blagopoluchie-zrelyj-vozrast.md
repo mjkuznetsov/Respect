@@ -6,9 +6,10 @@ title: Что влияет на психологическое состояни�
 gender: все
 age_range: 60-69
 topic: психология
-status: selected
+status: approved
 collected_date: 2026-09-17
 selected_date: 2026-09-19
+checked_date: 2026-09-19
 edited_date: 2026-09-19
 editor: агент61
 editor_notes: >-

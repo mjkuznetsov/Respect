@@ -8,6 +8,7 @@ age_range: 50-59
 topic: досуг
 status: collected
 collected_date: 2026-09-19
+full_text_path: data/статьи/full-text/dosug-psihologicheskoe-blagopoluchie.md
 selected_date: 2026-09-19
 edited_date: 2026-09-19
 editor: агент51

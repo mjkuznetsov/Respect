@@ -7,6 +7,7 @@ gender: женщины
 age_range: 50-59
 topic: спорт
 status: approved
+image_path: data/статьи/images/silovye-trenirovki-zhenshiny-menopauza.svg
 collected_date: 2026-09-19
 sorted_date: 2026-09-19
 selected_date: 2026-09-19

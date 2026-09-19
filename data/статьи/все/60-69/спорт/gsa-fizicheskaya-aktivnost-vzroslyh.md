@@ -7,6 +7,7 @@ gender: все
 age_range: 60-69
 topic: спорт
 status: approved
+image_path: data/статьи/images/gsa-fizicheskaya-aktivnost-vzroslyh.svg
 collected_date: 2026-09-19
 sorted_date: 2026-09-19
 selected_date: 2026-09-19

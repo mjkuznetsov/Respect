@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" rx="28" fill="#EAF2F8"/>
+  <!-- globe -->
+  <circle cx="400" cy="225" r="130" fill="#6FA8C9"/>
+  <ellipse cx="400" cy="225" rx="130" ry="50" fill="none" stroke="#EAF2F8" stroke-width="6"/>
+  <ellipse cx="400" cy="225" rx="55" ry="130" fill="none" stroke="#EAF2F8" stroke-width="6"/>
+  <line x1="270" y1="225" x2="530" y2="225" stroke="#EAF2F8" stroke-width="6"/>
+  <!-- heartbeat pulse wrapping across -->
+  <path d="M230 225 L320 225 L345 160 L375 290 L405 225 L570 225"
+        fill="none" stroke="#E8836B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

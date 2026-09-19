@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" rx="28" fill="#EAF4EC"/>
+  <!-- sun -->
+  <circle cx="620" cy="110" r="40" fill="#F2C86B"/>
+  <!-- ground line -->
+  <path d="M120 360 Q400 330 680 360" stroke="#BFE0C6" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <!-- abstract walking/active figure -->
+  <circle cx="360" cy="210" r="26" fill="#4F9B8E"/>
+  <path d="M360 236 L360 300" stroke="#4F9B8E" stroke-width="14" stroke-linecap="round"/>
+  <path d="M360 260 L300 300" stroke="#4F9B8E" stroke-width="12" stroke-linecap="round"/>
+  <path d="M360 260 L430 250" stroke="#4F9B8E" stroke-width="12" stroke-linecap="round"/>
+  <path d="M360 300 L310 360" stroke="#4F9B8E" stroke-width="14" stroke-linecap="round"/>
+  <path d="M360 300 L420 355" stroke="#4F9B8E" stroke-width="14" stroke-linecap="round"/>
+  <!-- motion arcs -->
+  <path d="M220 220 Q260 200 300 220" stroke="#F2A08A" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M200 260 Q250 235 300 260" stroke="#F2A08A" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>

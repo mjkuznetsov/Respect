@@ -6,7 +6,7 @@ title: Physical activity
 gender: все
 age_range: все
 topic: спорт
-status: sorted
+status: approved
 collected_date: 2026-09-19
 sorted_date: 2026-09-19
 ---

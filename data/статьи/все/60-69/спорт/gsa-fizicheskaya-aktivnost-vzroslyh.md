@@ -6,7 +6,7 @@ title: Physical Activity Among Older Adults Must Be Promoted
 gender: все
 age_range: 60-69
 topic: спорт
-status: sorted
+status: approved
 collected_date: 2026-09-19
 sorted_date: 2026-09-19
 selected_date: 2026-09-19

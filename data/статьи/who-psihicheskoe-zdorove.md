@@ -6,8 +6,10 @@ title: Психическое здоровье пожилых людей
 gender: все
 age_range: 70-79
 topic: психология
-status: approved
+status: published
 image_path: data/статьи/images/who-psihicheskoe-zdorove.svg
+published_at: 2026-09-19T08:16:48Z
+telegram_message_id: 12
 collected_date: 2026-09-17
 selected_date: 2026-09-18
 checked_date: 2026-09-19

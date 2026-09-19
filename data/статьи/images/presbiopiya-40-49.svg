@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" rx="28" fill="#FFF6E8"/>
+  <!-- open book -->
+  <path d="M240 300 C300 280 350 280 400 300 L400 200 C350 180 300 180 240 200 Z" fill="#F2C86B"/>
+  <path d="M560 300 C500 280 450 280 400 300 L400 200 C450 180 500 180 560 200 Z" fill="#F2C86B"/>
+  <line x1="270" y1="222" x2="370" y2="212" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+  <line x1="270" y1="248" x2="370" y2="238" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+  <line x1="430" y1="212" x2="530" y2="222" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+  <line x1="430" y1="238" x2="530" y2="248" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+  <!-- reading glasses floating above, symbol of clear near focus -->
+  <g stroke="#4E9C8B" stroke-width="10" fill="none" stroke-linecap="round">
+    <circle cx="330" cy="150" r="46" fill="#EAF6F2"/>
+    <circle cx="470" cy="150" r="46" fill="#EAF6F2"/>
+    <line x1="376" y1="150" x2="424" y2="150"/>
+    <line x1="284" y1="140" x2="250" y2="120"/>
+    <line x1="516" y1="140" x2="550" y2="120"/>
+  </g>
+  <!-- soft focus rays showing clarity -->
+  <circle cx="330" cy="150" r="14" fill="#F2A65A" opacity="0.85"/>
+  <circle cx="470" cy="150" r="14" fill="#F2A65A" opacity="0.85"/>
+</svg>

@@ -7,6 +7,7 @@ gender: все
 age_range: 60-69
 topic: здоровье
 status: approved
+image_path: data/статьи/images/fiziologiya-geriatricheskogo-pacienta.svg
 collected_date: 2026-09-17
 selected_date: 2026-09-18
 checked_date: 2026-09-19

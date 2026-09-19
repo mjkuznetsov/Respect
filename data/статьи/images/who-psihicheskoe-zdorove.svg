@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" rx="28" fill="#F0F6FA"/>
+  <!-- soft sun of warmth/support -->
+  <circle cx="400" cy="150" r="46" fill="#F2C86B"/>
+  <g stroke="#F2C86B" stroke-width="8" stroke-linecap="round">
+    <line x1="400" y1="80" x2="400" y2="64"/>
+    <line x1="460" y1="110" x2="472" y2="98"/>
+    <line x1="340" y1="110" x2="328" y2="98"/>
+  </g>
+  <!-- two hands/figures reaching toward each other forming connection -->
+  <path d="M240 340 C240 260 300 240 330 260 C300 280 300 310 330 330 C300 340 260 350 240 340 Z" fill="#6FB6C9"/>
+  <path d="M560 340 C560 260 500 240 470 260 C500 280 500 310 470 330 C500 340 540 350 560 340 Z" fill="#F2A08A"/>
+  <!-- small heart where hands meet: care, being needed -->
+  <path d="M400 268 C400 250 384 240 372 252 C364 260 364 274 372 282 L400 306 L428 282 C436 274 436 260 428 252 C416 240 400 250 400 268 Z" fill="#8E7CC3"/>
+</svg>

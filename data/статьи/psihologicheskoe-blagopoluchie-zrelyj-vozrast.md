@@ -7,6 +7,7 @@ gender: все
 age_range: 60-69
 topic: психология
 status: approved
+image_path: data/статьи/images/psihologicheskoe-blagopoluchie-zrelyj-vozrast.svg
 collected_date: 2026-09-17
 selected_date: 2026-09-19
 checked_date: 2026-09-19

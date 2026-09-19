@@ -7,6 +7,7 @@ gender: все
 age_range: 70-79
 topic: психология
 status: approved
+image_path: data/статьи/images/who-psihicheskoe-zdorove.svg
 collected_date: 2026-09-17
 selected_date: 2026-09-18
 checked_date: 2026-09-19

@@ -7,6 +7,7 @@ gender: все
 age_range: 40-49
 topic: здоровье
 status: approved
+image_path: data/статьи/images/presbiopiya-40-49.svg
 selected_date: 2026-09-19
 checked_date: 2026-09-19
 edited_date: 2026-09-19

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" rx="28" fill="#F5F0FA"/>
+  <!-- soft arc backdrop -->
+  <circle cx="400" cy="470" r="260" fill="#E4D9F2"/>
+  <!-- figure left -->
+  <g>
+    <circle cx="300" cy="180" r="46" fill="#8E7CC3"/>
+    <path d="M230 340 C230 270 270 240 300 240 C330 240 370 270 370 340 Z" fill="#8E7CC3"/>
+  </g>
+  <!-- figure right -->
+  <g>
+    <circle cx="500" cy="180" r="46" fill="#5FA8A3"/>
+    <path d="M430 340 C430 270 470 240 500 240 C530 240 570 270 570 340 Z" fill="#5FA8A3"/>
+  </g>
+  <!-- connecting arc of dots: bridging isolation -->
+  <path d="M356 230 C400 180 400 180 444 230" fill="none" stroke="#F2A65A" stroke-width="0" />
+  <circle cx="368" cy="222" r="7" fill="#F2A65A"/>
+  <circle cx="400" cy="204" r="7" fill="#F2A65A"/>
+  <circle cx="432" cy="222" r="7" fill="#F2A65A"/>
+  <!-- open pathway suggesting independence -->
+  <rect x="370" y="360" width="60" height="10" rx="5" fill="#F2A65A"/>
+</svg>

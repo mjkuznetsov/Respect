@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" rx="28" fill="#EAF6F2"/>
+  <!-- gentle wave suggesting circulation/flow -->
+  <path d="M0 330 C 120 290, 200 370, 320 330 S 520 290, 640 330 S 760 350, 800 330 V450 H0 Z" fill="#CDEAE0"/>
+  <!-- heart -->
+  <path d="M360 220 C360 180 320 160 296 184 C280 200 280 224 296 240 L360 300 L424 240 C440 224 440 200 424 184 C400 160 360 180 360 220 Z" fill="#F2A08A"/>
+  <!-- pulse line through heart -->
+  <polyline points="300,236 330,236 344,206 362,266 378,236 424,236" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- water droplet -->
+  <path d="M480 190 C480 230 448 254 448 284 C448 306 465 322 486 322 C507 322 524 306 524 284 C524 254 492 230 486 190 Z" fill="#6FB6C9" transform="translate(6,-10)"/>
+  <!-- balance beam linking heart and droplet: internal equilibrium -->
+  <line x1="392" y1="150" x2="512" y2="150" stroke="#4E9C8B" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="392" cy="150" r="8" fill="#4E9C8B"/>
+  <circle cx="512" cy="150" r="8" fill="#4E9C8B"/>
+  <line x1="452" y1="150" x2="452" y2="120" stroke="#4E9C8B" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="452" cy="112" r="10" fill="#4E9C8B"/>
+</svg>

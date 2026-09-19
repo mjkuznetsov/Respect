@@ -7,6 +7,7 @@ gender: все
 age_range: 80+
 topic: психология
 status: approved
+image_path: data/статьи/images/uspeshnoe-starenie-85-plus.svg
 collected_date: 2026-09-18
 selected_date: 2026-09-18
 checked_date: 2026-09-19

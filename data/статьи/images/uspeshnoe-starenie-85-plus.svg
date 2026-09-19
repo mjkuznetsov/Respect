@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" rx="28" fill="#EAF6F2"/>
+  <!-- forward path -->
+  <path d="M120 380 C300 300 500 300 700 200" fill="none" stroke="#CDEAE0" stroke-width="36" stroke-linecap="round"/>
+  <!-- confident abstract figure, upright and steady -->
+  <g>
+    <circle cx="330" cy="210" r="44" fill="#4E9C8B"/>
+    <path d="M270 360 C270 290 300 260 330 260 C360 260 390 290 390 360 Z" fill="#4E9C8B"/>
+  </g>
+  <!-- steering/compass symbol of self-direction -->
+  <circle cx="500" cy="230" r="58" fill="#FFFFFF" stroke="#F2A65A" stroke-width="10"/>
+  <circle cx="500" cy="230" r="10" fill="#F2A65A"/>
+  <line x1="500" y1="180" x2="500" y2="200" stroke="#F2A65A" stroke-width="8" stroke-linecap="round"/>
+  <line x1="500" y1="260" x2="500" y2="280" stroke="#F2A65A" stroke-width="8" stroke-linecap="round"/>
+  <line x1="450" y1="230" x2="470" y2="230" stroke="#F2A65A" stroke-width="8" stroke-linecap="round"/>
+  <line x1="530" y1="230" x2="550" y2="230" stroke="#F2A65A" stroke-width="8" stroke-linecap="round"/>
+  <!-- spark above head: sharp mind -->
+  <path d="M330 120 L338 140 L358 144 L338 148 L330 168 L322 148 L302 144 L322 140 Z" fill="#F2A08A"/>
+</svg>

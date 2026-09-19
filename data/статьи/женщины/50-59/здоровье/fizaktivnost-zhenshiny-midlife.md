@@ -7,6 +7,7 @@ gender: женщины
 age_range: 50-59
 topic: здоровье
 status: approved
+image_path: data/статьи/images/fizaktivnost-zhenshiny-midlife.svg
 collected_date: 2026-09-19
 sorted_date: 2026-09-19
 selected_date: 2026-09-19

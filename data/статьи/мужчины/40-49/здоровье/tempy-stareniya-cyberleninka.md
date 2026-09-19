@@ -7,6 +7,7 @@ gender: мужчины
 age_range: 40-49
 topic: здоровье
 status: approved
+image_path: data/статьи/images/tempy-stareniya-cyberleninka.svg
 collected_date: 2026-09-19
 sorted_date: 2026-09-19
 selected_date: 2026-09-19

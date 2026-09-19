@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" rx="28" fill="#EFF6F5"/>
+  <!-- clipboard -->
+  <rect x="300" y="90" width="200" height="270" rx="18" fill="#7FB3A3"/>
+  <rect x="326" y="118" width="148" height="214" rx="10" fill="#FDFDFB"/>
+  <rect x="360" y="80" width="80" height="26" rx="10" fill="#4F9B8E"/>
+  <!-- checklist rows -->
+  <g stroke="#E8A65A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M350 155 L365 170 L392 140"/>
+    <path d="M350 205 L365 220 L392 190"/>
+    <path d="M350 255 L365 270 L392 240"/>
+  </g>
+  <g fill="#C9DFDA">
+    <rect x="410" y="155" width="50" height="14" rx="6"/>
+    <rect x="410" y="205" width="50" height="14" rx="6"/>
+    <rect x="410" y="255" width="50" height="14" rx="6"/>
+  </g>
+  <!-- small sun of good habits -->
+  <circle cx="580" cy="140" r="26" fill="#F2C86B"/>
+</svg>

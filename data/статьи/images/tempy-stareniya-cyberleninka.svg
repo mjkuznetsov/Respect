@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" rx="28" fill="#EAF0F5"/>
+  <!-- clock face: pace, tempo -->
+  <circle cx="330" cy="225" r="110" fill="#FDFDFB"/>
+  <circle cx="330" cy="225" r="110" fill="none" stroke="#4F7CAC" stroke-width="12"/>
+  <circle cx="330" cy="225" r="10" fill="#4F7CAC"/>
+  <line x1="330" y1="225" x2="330" y2="155" stroke="#4F7CAC" stroke-width="8" stroke-linecap="round"/>
+  <line x1="330" y1="225" x2="385" y2="250" stroke="#E8A33D" stroke-width="8" stroke-linecap="round"/>
+  <!-- upward path: pace one can steer -->
+  <path d="M470 320 Q560 280 630 150" stroke="#4F9B8E" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M600 175 L630 150 L648 185" stroke="#4F9B8E" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

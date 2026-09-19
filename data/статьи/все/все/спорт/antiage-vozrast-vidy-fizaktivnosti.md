@@ -7,6 +7,7 @@ gender: все
 age_range: все
 topic: спорт
 status: approved
+image_path: data/статьи/images/antiage-vozrast-vidy-fizaktivnosti.svg
 collected_date: 2026-09-19
 sorted_date: 2026-09-19
 ---

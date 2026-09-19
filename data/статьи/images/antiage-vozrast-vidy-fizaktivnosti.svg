@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" rx="28" fill="#F5EFE6"/>
+  <!-- three activity types orbiting a center, showing variety -->
+  <circle cx="400" cy="225" r="18" fill="#E8A33D"/>
+  <!-- bicycle wheel -->
+  <circle cx="240" cy="150" r="46" fill="none" stroke="#4F9B8E" stroke-width="12"/>
+  <circle cx="240" cy="150" r="8" fill="#4F9B8E"/>
+  <!-- dumbbell -->
+  <g fill="#8E7CC3">
+    <rect x="520" y="130" width="14" height="60" rx="6"/>
+    <rect x="586" y="130" width="14" height="60" rx="6"/>
+    <rect x="530" y="150" width="60" height="16" rx="8"/>
+  </g>
+  <!-- wave (swimming) -->
+  <path d="M280 330 Q320 300 360 330 T440 330 T520 330" stroke="#6FB6C9" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <!-- connecting lines to center -->
+  <g stroke="#D9C9AE" stroke-width="4">
+    <line x1="400" y1="225" x2="260" y2="175"/>
+    <line x1="400" y1="225" x2="545" y2="175"/>
+    <line x1="400" y1="225" x2="400" y2="320"/>
+  </g>
+</svg>

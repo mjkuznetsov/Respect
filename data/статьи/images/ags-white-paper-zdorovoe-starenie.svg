@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" rx="28" fill="#F2F6FA"/>
+  <!-- compass: autonomy, navigating one's own life -->
+  <circle cx="400" cy="225" r="120" fill="#DCE9F2"/>
+  <circle cx="400" cy="225" r="120" fill="none" stroke="#6B8CAE" stroke-width="10"/>
+  <circle cx="400" cy="225" r="10" fill="#6B8CAE"/>
+  <path d="M400 225 L440 150 L420 225 Z" fill="#E8836B"/>
+  <path d="M400 225 L360 300 L380 225 Z" fill="#8E7CC3"/>
+  <!-- small tick marks -->
+  <g stroke="#6B8CAE" stroke-width="6" stroke-linecap="round">
+    <line x1="400" y1="115" x2="400" y2="130"/>
+    <line x1="400" y1="320" x2="400" y2="335"/>
+    <line x1="290" y1="225" x2="305" y2="225"/>
+    <line x1="495" y1="225" x2="510" y2="225"/>
+  </g>
+</svg>

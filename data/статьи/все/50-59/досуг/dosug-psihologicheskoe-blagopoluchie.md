@@ -7,6 +7,7 @@ gender: все
 age_range: 50-59
 topic: досуг
 status: approved
+image_path: data/статьи/images/dosug-psihologicheskoe-blagopoluchie.svg
 collected_date: 2026-09-19
 sorted_date: 2026-09-19
 full_text_path: data/статьи/full-text/dosug-psihologicheskoe-blagopoluchie.md

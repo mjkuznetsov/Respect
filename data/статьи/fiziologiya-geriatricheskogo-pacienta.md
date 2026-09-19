@@ -6,7 +6,9 @@ title: Physiology Considerations in the Geriatric Patient
 gender: все
 age_range: 60-69
 topic: здоровье
-status: approved
+status: published
+published_at: 2026-09-19T08:14:13Z
+telegram_message_id: 7
 image_path: data/статьи/images/fiziologiya-geriatricheskogo-pacienta.svg
 collected_date: 2026-09-17
 selected_date: 2026-09-18

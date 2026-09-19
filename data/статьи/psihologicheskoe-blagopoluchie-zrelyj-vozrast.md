@@ -6,7 +6,9 @@ title: Что влияет на психологическое состояни�
 gender: все
 age_range: 60-69
 topic: психология
-status: approved
+status: published
+published_at: 2026-09-19T08:14:13Z
+telegram_message_id: 10
 image_path: data/статьи/images/psihologicheskoe-blagopoluchie-zrelyj-vozrast.svg
 collected_date: 2026-09-17
 selected_date: 2026-09-19

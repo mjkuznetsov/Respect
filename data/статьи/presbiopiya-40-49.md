@@ -6,7 +6,9 @@ title: 'Presbyopia: addressing an urgent global need'
 gender: все
 age_range: 40-49
 topic: здоровье
-status: approved
+status: published
+published_at: 2026-09-19T08:14:13Z
+telegram_message_id: 9
 image_path: data/статьи/images/presbiopiya-40-49.svg
 selected_date: 2026-09-19
 checked_date: 2026-09-19

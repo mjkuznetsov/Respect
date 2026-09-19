@@ -6,8 +6,9 @@ title: Исследование темпов старения
 gender: мужчины
 age_range: 40-49
 topic: здоровье
-status: collected
+status: sorted
 collected_date: 2026-09-19
+sorted_date: 2026-09-19
 selected_date: 2026-09-19
 edited_date: 2026-09-19
 editor: агент41

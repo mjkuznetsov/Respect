@@ -6,9 +6,10 @@ title: Geriatric psychology
 gender: все
 age_range: 50-59
 topic: психология
-status: selected
+status: approved
 collected_date: 2026-09-17
 selected_date: 2026-09-18
+checked_date: 2026-09-19
 edited_date: 2026-09-18
 editor: агент51
 editor_notes: >-

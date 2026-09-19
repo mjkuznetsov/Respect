@@ -6,7 +6,9 @@ title: Physical activity
 gender: все
 age_range: все
 topic: спорт
-status: approved
+status: published
+published_at: 2026-09-19T17:43:43Z
+telegram_message_id: 19
 image_path: data/статьи/images/who-fizicheskaya-aktivnost.svg
 collected_date: 2026-09-19
 sorted_date: 2026-09-19

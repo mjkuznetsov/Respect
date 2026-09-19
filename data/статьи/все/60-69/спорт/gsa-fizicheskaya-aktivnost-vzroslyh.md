@@ -6,7 +6,9 @@ title: Physical Activity Among Older Adults Must Be Promoted
 gender: все
 age_range: 60-69
 topic: спорт
-status: approved
+status: published
+published_at: 2026-09-19T17:43:37Z
+telegram_message_id: 15
 image_path: data/статьи/images/gsa-fizicheskaya-aktivnost-vzroslyh.svg
 collected_date: 2026-09-19
 sorted_date: 2026-09-19

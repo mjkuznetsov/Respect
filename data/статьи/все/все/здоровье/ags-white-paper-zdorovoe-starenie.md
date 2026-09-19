@@ -6,7 +6,9 @@ title: 'Healthy Aging: American Geriatrics Society White Paper Executive Summary
 gender: все
 age_range: все
 topic: здоровье
-status: approved
+status: published
+published_at: 2026-09-19T17:43:39Z
+telegram_message_id: 17
 image_path: data/статьи/images/ags-white-paper-zdorovoe-starenie.svg
 collected_date: 2026-09-19
 sorted_date: 2026-09-19

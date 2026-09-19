@@ -6,7 +6,7 @@ title: Association of Enjoyable Leisure Activities With Psychological and Physic
 gender: все
 age_range: 50-59
 topic: досуг
-status: sorted
+status: approved
 collected_date: 2026-09-19
 sorted_date: 2026-09-19
 full_text_path: data/статьи/full-text/dosug-psihologicheskoe-blagopoluchie.md

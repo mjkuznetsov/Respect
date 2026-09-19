@@ -6,7 +6,9 @@ title: "Top 10 Healthy New Year's Resolutions"
 gender: все
 age_range: все
 topic: здоровье
-status: approved
+status: published
+published_at: 2026-09-19T17:43:38Z
+telegram_message_id: 16
 image_path: data/статьи/images/ags-top10-privychki-zdorovya.svg
 collected_date: 2026-09-19
 sorted_date: 2026-09-19

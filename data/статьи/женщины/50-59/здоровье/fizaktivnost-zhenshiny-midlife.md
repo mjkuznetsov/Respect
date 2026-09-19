@@ -6,7 +6,9 @@ title: "Role of Physical Activity in Women's Mid-life"
 gender: женщины
 age_range: 50-59
 topic: здоровье
-status: approved
+status: published
+published_at: 2026-09-19T17:43:44Z
+telegram_message_id: 20
 image_path: data/статьи/images/fizaktivnost-zhenshiny-midlife.svg
 collected_date: 2026-09-19
 sorted_date: 2026-09-19

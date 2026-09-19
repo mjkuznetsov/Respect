@@ -6,7 +6,9 @@ title: Resistance training alters body composition in middle-aged women dependin
 gender: женщины
 age_range: 50-59
 topic: спорт
-status: approved
+status: published
+published_at: 2026-09-19T17:43:45Z
+telegram_message_id: 21
 image_path: data/статьи/images/silovye-trenirovki-zhenshiny-menopauza.svg
 collected_date: 2026-09-19
 sorted_date: 2026-09-19

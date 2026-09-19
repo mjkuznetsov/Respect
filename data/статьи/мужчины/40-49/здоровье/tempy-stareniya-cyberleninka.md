@@ -6,7 +6,9 @@ title: Исследование темпов старения
 gender: мужчины
 age_range: 40-49
 topic: здоровье
-status: approved
+status: published
+published_at: 2026-09-19T17:43:45Z
+telegram_message_id: 22
 image_path: data/статьи/images/tempy-stareniya-cyberleninka.svg
 collected_date: 2026-09-19
 sorted_date: 2026-09-19

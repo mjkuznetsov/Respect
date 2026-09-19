@@ -6,9 +6,10 @@ title: Physical Activity in Aging
 gender: все
 age_range: 60-69
 topic: спорт
-status: selected
+status: approved
 collected_date: 2026-09-19
 selected_date: 2026-09-19
+checked_date: 2026-09-19
 edited_date: 2026-09-19
 editor: агент61
 editor_notes: >-

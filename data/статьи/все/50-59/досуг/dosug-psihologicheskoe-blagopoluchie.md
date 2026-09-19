@@ -10,15 +10,6 @@ status: approved
 collected_date: 2026-09-19
 sorted_date: 2026-09-19
 full_text_path: data/статьи/full-text/dosug-psihologicheskoe-blagopoluchie.md
-selected_date: 2026-09-19
-edited_date: 2026-09-19
-editor: агент51
-editor_notes: >-
-  Агент50 вынес вердикт «подходит» без конкретных замечаний к тексту (тон,
-  конкретные цифры вместо общих слов, досуг как управление состоянием, а не
-  «чем занять старика» — всё уже на месте). Правок по содержанию не
-  требовалось, текст оставлен без изменений, статус переведён в selected для
-  агента 4.
 written_date: 2026-09-19
 writer: писатель50
 word_count: 411

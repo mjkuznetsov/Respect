@@ -6,9 +6,10 @@ title: 'Beyond longevity: Psychological and functional predictors of successful 
 gender: все
 age_range: 80+
 topic: психология
-status: selected
+status: approved
 collected_date: 2026-09-18
 selected_date: 2026-09-18
+checked_date: 2026-09-19
 edited_date: 2026-09-18
 editor: агент81
 editor_notes: >-
